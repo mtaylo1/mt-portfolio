@@ -1,5 +1,5 @@
 # Portfolio Website - MustaphaTaylor.com
-   ## License:
+
    ## License: MIT  ![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)
    ### https://choosealicense.com/licenses/mit/
     
