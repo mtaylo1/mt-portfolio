@@ -7,6 +7,7 @@ export default function Navbar() {
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0">
         <img
+            href="www.mustaphataylor.com"
             className="object-scale-down h-28 w-46 object-left"
             alt="logo"
             src="./MT.png"

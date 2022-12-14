@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     title: "Weather Dashboard",
-    subtitle: "React Hooks",
+    subtitle: "API Application",
     description:
       "Weather dashboard that runs in a browser using a Server-Side API (Openweather) web application. Technologies used: Javascript, HTML, jQuery, AJAX and fetch API",
     image: "./project-4.gif",
@@ -33,11 +33,37 @@ export const projects = [
   },
   {
     title: "Password Generator",
-    subtitle: "React Hooks",
+    subtitle: "Javascript",
     description:
       "Simple password Generator that prompts the user for length, character types, and case. Technologies used: HTML, Javascript ",
     image: "./project-5.gif",
     link: "https://mtaylo1.github.io/password-generator2/",
+  },
+  {
+    title: "Book Search Engine",
+    subtitle: "React Application",
+    description:
+      "A fully functioning Google Books API search engine built with a GraphQL API and Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.",
+    image: "./project-6.gif",
+    link: "https://book-search-engine.netlify.app/",
+  },
+
+  {
+    title: "J.A.T.E. - Just Another Text Editor",
+    subtitle: "Single Page Application",
+    description:
+      "A text editor that runs in the browser. It features a number of methods that are useful for storing and retrieving data",
+    image: "./project-7.gif",
+    link: "https://mtaylo1-just-another-text-editor.netlify.app/",
+  },
+
+  {
+    title: "Note Taker",
+    subtitle: "Express.js",
+    description:
+      "A text editor that runs in the browser. It features a number of methods that are useful for storing and retrieving data",
+    image: "./project-7.gif",
+    link: "https://mtaylo1-just-another-text-editor.netlify.app/",
   },
 ];
 
