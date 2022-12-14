@@ -62,7 +62,7 @@ export const projects = [
     subtitle: "Express.js",
     description:
       "A text editor that runs in the browser. It features a number of methods that are useful for storing and retrieving data",
-    image: "./project-7.gif",
+    image: "./project-8.gif",
     link: "https://mtaylo1-just-another-text-editor.netlify.app/",
   },
 ];
